@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EugeneBashorin/03_image-finder_react-lifecycles-metods_modal_http-request/static/css/main.ac1368c5.css",
+    "main.js": "/EugeneBashorin/03_image-finder_react-lifecycles-metods_modal_http-request/static/js/main.97ffc6a8.js",
+    "index.html": "/EugeneBashorin/03_image-finder_react-lifecycles-metods_modal_http-request/index.html",
+    "static/media/magnifying-glass-icon.svg": "/EugeneBashorin/03_image-finder_react-lifecycles-metods_modal_http-request/static/media/magnifying-glass-icon.bc5590126e0bef022e4ad30df9ddbc0e.svg",
+    "main.ac1368c5.css.map": "/EugeneBashorin/03_image-finder_react-lifecycles-metods_modal_http-request/static/css/main.ac1368c5.css.map",
+    "main.97ffc6a8.js.map": "/EugeneBashorin/03_image-finder_react-lifecycles-metods_modal_http-request/static/js/main.97ffc6a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac1368c5.css",
+    "static/js/main.97ffc6a8.js"
+  ]
+}
